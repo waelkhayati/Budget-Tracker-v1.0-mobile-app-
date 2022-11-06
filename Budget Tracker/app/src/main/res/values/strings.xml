@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+
+
+    <string-array name="categories">
+        <item>Income</item>
+        <item>Food and Drinks</item>
+        <item>Home Essentials</item>
+        <item>Transportation</item>
+        <item>Leisure Activities</item>
+        <item>Bills and Taxes</item>
+        <item>Investments</item>
+        <item>Other</item>
+    </string-array>
+</resources>
+
+
+
